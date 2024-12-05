@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Лабораторная", "Домашняя работа 6\Лабораторная.csproj", "{C7F41470-48A2-4C84-8A0F-2545C2E2D0D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Тема Кулинарные Классы", "Тема Кулинарные Курсы\Тема Кулинарные Классы.csproj", "{725AB527-6308-40C8-88E3-1A3448965293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7F41470-48A2-4C84-8A0F-2545C2E2D0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F41470-48A2-4C84-8A0F-2545C2E2D0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F41470-48A2-4C84-8A0F-2545C2E2D0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F41470-48A2-4C84-8A0F-2545C2E2D0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725AB527-6308-40C8-88E3-1A3448965293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725AB527-6308-40C8-88E3-1A3448965293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725AB527-6308-40C8-88E3-1A3448965293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725AB527-6308-40C8-88E3-1A3448965293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCEFC5CD-BB3D-4AAB-AD10-B2CB4B09FC3B}
+	EndGlobalSection
+EndGlobal
